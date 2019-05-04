@@ -1,0 +1,17 @@
+Configuring VSCode
+enable autoSave with a delay of 5 seconds
+use GIT bash terminal  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
+enable wordwrap
+font size to 18
+Extensions
+Live Server
+Bracket Pair Colorizer
+Code Spell Checker
+HTML CSS Support
+indent-rainbow
+Settings Sync (one of the most important extension)
+Prettier — Code formatter
+Material-Icon-Theme (for file icons)
+vscode-icons (for file icons)
+Auto Rename Tag
+CSS Peek

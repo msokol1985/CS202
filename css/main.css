@@ -1,0 +1,58 @@
+/* This a comment */
+/* Author - Justice Banson 
+    Version - 1.0
+*/
+/* style rule - selector, declaration */
+/* selector{ propertyname:value;} */
+
+/* selector - element, id, class, multiple */
+
+/* css variables - root, var() */
+:root{
+    --main-color: red;
+    --bg-color:lightblue;
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+body{
+    font-family: 'Nunito', sans-serif !important;
+    background-color: var(--bg-color);
+}
+p{
+    color:green;
+    
+    font-size: 18px;/* em, rem, px, % */
+   /*  font-weight: bold; */
+    
+}
+h1{
+    background-color: lightblue;
+}
+a{
+    color:red;
+    text-decoration: underline; 
+    background-color: var(--bg-color);
+    box-shadow: var(--main-color);   
+}
+footer i{
+    font-style: italic;
+}
+#idname{
+    color:orange;
+}
+.classname{
+    color:pink;
+}
+p,h1,h2,.classname{
+
+}
+footer i{
+
+}
+nav a{
+
+}
+h3{
+    color:black !important;
+}

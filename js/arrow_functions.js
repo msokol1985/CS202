@@ -1,0 +1,17 @@
+// regular function
+
+
+
+
+
+
+
+
+
+
+// arrow function
+
+
+
+
+
